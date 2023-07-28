@@ -13,11 +13,7 @@ Este proyecto es un Dashboard de Administración construido con React en el fron
 
 ## Capturas de Pantalla
 
-Si es relevante para tu proyecto, puedes incluir capturas de pantalla que muestren el producto en acción o su interfaz.
-
-![Captura de Pantalla 1](url_captura_pantalla_1.png)
-![Captura de Pantalla 2](url_captura_pantalla_2.png)
-...
+<img src="./views/main.png" alt="Vista principal" width="450px" height="300px">                  <img src="./views/view.png" alt="Vista de creación y edición" width="450" height="300">
 
 ## Instalación y Configuración
 
